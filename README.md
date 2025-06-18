@@ -1,9 +1,5 @@
-Certainly! Below is the **entire, final `README.md` content** in a complete and properly structured markdown format — perfect for direct use in your GitHub repository:
 
----
-
-````markdown
-# 💬 Real-Time Chatbot using Python (Terminal + GUI)
+## 💬 Real-Time Chatbot using Python (Terminal + GUI)
 
 This project is a simple yet powerful real-time chat application built using **Python's socket programming** and **threading**. It supports both **terminal-based clients** and a **desktop GUI** made with **Tkinter**. The server can handle multiple clients chatting simultaneously in real time.
 
