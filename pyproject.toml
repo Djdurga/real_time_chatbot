@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "real_time_chatbot"
+version = "0.1.0"
+description = "A real-time chatbot application"
+authors = ["Durga <powerdurga76@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
